@@ -1,0 +1,11 @@
+[
+  {
+    "id": "norway-islamabad-tourism-1",
+    "vfsLoginUrl": "https://visa.vfsglobal.com/pak/en/nor/login",
+    "centerValue": "Islamabad",
+    "visaTypeValue": "Tourism/Visit friends/Other",
+    "frequencyMinutes": 15,
+    "usernameEnvKey": "VFS_USER_1",
+    "passwordEnvKey": "VFS_PASS_1"
+  }
+]
