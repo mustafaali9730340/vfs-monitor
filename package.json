@@ -1,0 +1,14 @@
+{
+  "name": "vfs-monitor",
+  "version": "1.0.0",
+  "scripts": {
+    "check": "node check.js"
+  },
+  "dependencies": {
+    "playwright": "^1.48.0",
+    "node-fetch": "^2.6.7",
+    "form-data": "^4.0.0",
+    "dotenv": "^16.0.0",
+    "@sendgrid/mail": "^7.7.0"
+  }
+}
